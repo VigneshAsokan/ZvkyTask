@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9000d46af662415429f3c12dd47e9830, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  _symbolData:
+  - Type: 0
+    Symbol: {fileID: 7275503572595482384, guid: 4b5e860483cbba24ba7103666087bf7f, type: 3}
+  - Type: 1
+    Symbol: {fileID: 7977771335931986318, guid: ef58deadf0b4f394988a5d544765f571, type: 3}
+  - Type: 2
+    Symbol: {fileID: -5368269572284676292, guid: a2cfce84324506543a1ddc22a8ad789f, type: 3}
+  - Type: 3
+    Symbol: {fileID: -3935176248824555341, guid: 302f06b65bb5c2841a787b44a3178d3a, type: 3}
+  - Type: 4
+    Symbol: {fileID: 3017772501529418532, guid: 4045c303504295748aa643cd0aab350d, type: 3}
+  - Type: 5
+    Symbol: {fileID: -4253948379142672119, guid: f1d1076a08d6c3d4a99931ff9b77b207, type: 3}
+  - Type: 6
+    Symbol: {fileID: -5791370211959056465, guid: eda86e9cc40230a4eb8d50bef55a1cbc, type: 3}
+  - Type: 7
+    Symbol: {fileID: 1173032439664069760, guid: f5f9cdb246775884bb53934b687dd7dc, type: 3}
+  - Type: 8
+    Symbol: {fileID: -2920512813535831766, guid: 01766af3986b9e14699eb6e5dd7725d2, type: 3}
+  - Type: 9
+    Symbol: {fileID: 2828557210867129351, guid: 1d7e977a20b2dc749b3815480e00f688, type: 3}
+  - Type: 10
+    Symbol: {fileID: -3024007541509066186, guid: 1de209a58c6b6d6429671247cf96a180, type: 3}
+  - Type: 11
+    Symbol: {fileID: 9182461397486002431, guid: 27345a511961a4d4cb710359e327515e, type: 3}
+  _audioPairs:
+  - Name: Spin
+    Clip: {fileID: 8300000, guid: e5280d640d3b8d04ca527692a7c01803, type: 3}
+  - Name: SpinStop
+    Clip: {fileID: 8300000, guid: 6787594933446f84a8a30b6f232d55ac, type: 3}
+  - Name: Button
+    Clip: {fileID: 8300000, guid: 4b77693faf4a8a946bc2d0d83a365d58, type: 3}
+  - Name: BonusLand
+    Clip: {fileID: 8300000, guid: f129cc84ecd842c4cad87a45d171799e, type: 3}
+  - Name: ScatterLand
+    Clip: {fileID: 8300000, guid: 603566cb87a342c4a8316221315ed31e, type: 3}
+  - Name: WildLand
+    Clip: {fileID: 8300000, guid: 21c4bf9e03ad0f74da7c009b4f054d08, type: 3}
+  - Name: LowPay
+    Clip: {fileID: 8300000, guid: 217905ec42cd5a94688b2f8c33c122e8, type: 3}
+  - Name: H1Pay
+    Clip: {fileID: 8300000, guid: 3361461ff8bad3f4f88ba1ce4148cfe6, type: 3}
+  - Name: H2Pay
+    Clip: {fileID: 8300000, guid: 74b2d5c4d3010a946bf3542b91bf7997, type: 3}
+  - Name: H3Pay
+    Clip: {fileID: 8300000, guid: dfc62fdb6df800241b38aea474c9dc43, type: 3}
+  - Name: H4Pay
+    Clip: {fileID: 8300000, guid: cfe9ce5e305ba4e4780a0d2489c6e118, type: 3}
+  - Name: BonusWin
+    Clip: {fileID: 8300000, guid: 8d34ee380b8a0294da659072faa7e7a8, type: 3}
+  - Name: BigWin
+    Clip: {fileID: 8300000, guid: 44ffb4f2be5a6c844805e71ba60fe41c, type: 3}
+  - Name: MainMusic
+    Clip: {fileID: 8300000, guid: 1e572c179ca8a894288408c79695932d, type: 3}
